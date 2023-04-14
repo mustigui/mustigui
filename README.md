@@ -27,7 +27,7 @@
   - [Applied Plotting, Charting & Data Representation in Python](https://coursera.org/share/864f6ed03fad5ea830f8e50f49a812cd)
   - [Visual Analytics with Tableau](https://coursera.org/share/7c1049066b7f02f338389b8903fbcbe2)
   - [Data Analytics for Lean Six Sigma](https://coursera.org/share/493f5dda94b83f28033de3a4f7812d89)
-  - [Success](https://coursera.org/share/1c323756cc894c3b1a99eed1776a728c)
+  - [Professional Development: Success](https://coursera.org/share/1c323756cc894c3b1a99eed1776a728c)
   
  
 <h2> 🤳 Connect with me:</h2>
