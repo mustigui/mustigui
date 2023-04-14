@@ -1,4 +1,4 @@
-<h1>Hi, I'm Guiliana! <br/><a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Scientist</a>, <a href="https://www.linkedin.com/in/guiliana-mustiga/">Biostatistician</a>, <a href="https://scholar.google.com/citations?user=rQpIj6AAAAAJ&hl=en">Research Scientist</a></h1>
+<h1>Hi, I'm Guiliana! <br/><a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Scientist</a>, <a href="https://www.linkedin.com/in/guiliana-mustiga/">Business Intelligence Developer</a>, <a href="https://scholar.google.com/citations?user=rQpIj6AAAAAJ&hl=en">Research Scientist</a></h1>
  
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
@@ -19,7 +19,7 @@
 - <b>Coursera</b>
   - [Machine Learning Specialization](https://coursera.org/share/495e78ff665fd6fdcc4bc99d8174b4fb)
   - [Advanced Learning Algorithms](https://coursera.org/share/57eaa551a220af3e07d2ae57e54a9068)
-  - [Supervised Machine Learning: Regression and Classificatin](https://coursera.org/share/fbb34c6f6cdf1712ce97fdc4005bb33a)
+  - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/fbb34c6f6cdf1712ce97fdc4005bb33a)
   - [Deep Learning for Real State Prediction](https://coursera.org/share/0fe2d99b9e9341623cb1db5253dd7810)
   - [SQL for Data Science](https://coursera.org/share/d2b06b5bde3b0984ffd7c78d7c091044)
   - [Introduction to Data Science in Python](https://coursera.org/share/7f6ea6478053809dbd09abf2f13c3a30)
