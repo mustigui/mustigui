@@ -1,4 +1,4 @@
-<h1>Hi, I'm Guiliana! <br/><a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Scientist</a>, <a href="https://www.linkedin.com/in/guiliana-mustiga/">Business Intelligence Developer</a>, <a href="https://scholar.google.com/citations?user=rQpIj6AAAAAJ&hl=en">Biostatistician</a></h1>
+<h1>Hi, I'm Guiliana! <br/><a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Scientist</a>, <a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Analyst</a>, <a href="https://scholar.google.com/citations?user=rQpIj6AAAAAJ&hl=en">Biostatistician</a></h1>
  
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
