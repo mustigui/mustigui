@@ -7,9 +7,12 @@
 
 <h2>📝 Published Papers:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Crop Recommendation System with LightGBM](https://github.com/mustigui/Crop-Recommendation-System-with-LightGBM)
-
+- <b>Plant Breeding & Genomics</b>
+  - [Identification of Climate and Genetic Factors That Control Fat Content and Fatty Acid Composition of Theobroma cacao L. Beans](https://www.frontiersin.org/articles/10.3389/fpls.2019.01159/full)
+	  
+   - [Phenotypic Description of Theobroma cacao L. for Yield and Vigor Traits From 34 Hybrid Families in Costa Rica Based on the Genetic Basis of the Parental Population
+](https://www.frontiersin.org/articles/10.3389/fpls.2018.00808/full)
+   
 <h2>🎓 Certifications:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
