@@ -12,7 +12,9 @@
 	  
    - [Phenotypic Description of Theobroma cacao L. for Yield and Vigor Traits From 34 Hybrid Families in Costa Rica Based on the Genetic Basis of the Parental Population
 ](https://www.frontiersin.org/articles/10.3389/fpls.2018.00808/full)
-   
+
+   - [Supplemental and Synchronized Pollination May Increase Yield in Cacao](https://journals.ashs.org/hortsci/view/journals/hortsci/54/10/article-p1718.xml)
+
 <h2>🎓 Certifications:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
