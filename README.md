@@ -1,7 +1,13 @@
 <h1>Hi, I'm Guiliana! <br/><a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Scientist</a>, <a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Analyst</a>, <a href="https://scholar.google.com/citations?user=rQpIj6AAAAAJ&hl=en">Biostatistician</a></h1>
- 
- I am a data scientist with rich experiences spanning experimental design, plant breeding and genomic analysis, business analytics, product development, and machine learning. 
- 
+
+As a seasoned data scientist with over a decade of experience in the plant breeding and biotech industries, I have honed my skills in quantitative genetics, statistics, R and Python programming, and AI/Machine Learning. With a strong background in plant breeding and genetics, I spent eight years working as a statistician for a chocolate company's plant breeding and genetics program, where I gained a wealth of experience in plant breeding, data analysis, and experimental design. 
+
+At a cannabis startup, I served as the data scientist, overseeing trials for cannabis strain creation and analytics to optimize cannabinoid and terpene profiles for higher yields of THC and CBD. I also lead efforts in SOP development and database creation to streamline data collection (pre and post-harvest).
+
+I also have experience working with engineers, helping them identify the root cause of medical device failures for a global biotech company. In addition to my technical expertise, I have a strong aptitude for business intelligence and KPI metrics, having set up flows and dashboards for global reporting. 
+
+Moreover, as the main author of two scientific papers that have been published in high-impact journals in plant breeding and genomics, I have demonstrated my ability to conduct research and communicate findings effectively. I am now seeking new opportunities to leverage my diverse skill set as a consultant by bringing value through data-driven insights and innovative solutions.
+
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Python</b>
