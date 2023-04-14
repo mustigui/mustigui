@@ -1,24 +1,25 @@
-<h1>Hi, I'm Guiliana! <br/><a href="https://github.com/mustigui">Data Scientist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Biostatistician</a>, <a href="https://scholar.google.com/citations?user=rQpIj6AAAAAJ&hl=en">Research Scientist</a></h1>
-
+<h1>Hi, I'm Guiliana! <br/><a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Scientist</a>, <a href="https://www.linkedin.com/in/guiliana-mustiga/">Biostatistician</a>, <a href="https://scholar.google.com/citations?user=rQpIj6AAAAAJ&hl=en">Research Scientist</a></h1>
+ 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Python</b>
   - [Crop Recommendation System with LightGBM](https://github.com/mustigui/Crop-Recommendation-System-with-LightGBM)
 
-<h2>👨‍💻 Published Papers:</h2>
+<h2>📝 Published Papers:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Crop Recommendation System with LightGBM](https://github.com/mustigui/Crop-Recommendation-System-with-LightGBM)
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>🎓 Certifications:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Crop Recommendation System with LightGBM](https://github.com/mustigui/Crop-Recommendation-System-with-LightGBM)
-
+ 
 <h2> 🤳 Connect with me:</h2>
+ 📫 gm.mustiga@gmail.com
 
 [<img align="left" alt="guiliana-mustiga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+ 
 [linkedin]: https://linkedin.com/in/guiliana-mustiga/
 
 <!--
