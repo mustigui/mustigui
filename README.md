@@ -4,7 +4,7 @@ As a seasoned data scientist with over a decade of experience in the plant breed
 
 At a cannabis startup, I served as the data scientist, overseeing trials for cannabis strain creation and analytics to optimize cannabinoid and terpene profiles for higher yields of THC and CBD. I also lead efforts in SOP development and database creation to streamline data collection (pre and post-harvest).
 
-I also have experience working with engineers, helping them identify the root cause of medical device failures for a global biotech company. In addition to my technical expertise, I have a strong aptitude for business intelligence and KPI metrics, having set up flows and dashboards for global reporting. 
+I also have experience working with engineers, helping them identify the root cause of medical device failures for a global biotech company. Other aspects of my work include creating and testing deep learning algorithms to be used in medical diagnostics software. In addition to my technical expertise, I have a strong aptitude for business intelligence and KPI metrics, having set up flows and dashboards for global reporting. 
 
 Moreover, as the main author of two scientific papers that have been published in high-impact journals in plant breeding and genomics, I have demonstrated my ability to conduct research and communicate findings effectively. I am now seeking new opportunities to leverage my diverse skill set as a consultant by bringing value through data-driven insights and innovative solutions.
 
