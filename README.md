@@ -1,5 +1,7 @@
 <h1>Hi, I'm Guiliana! <br/><a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Scientist</a>, <a href="https://www.linkedin.com/in/guiliana-mustiga/">Data Analyst</a>, <a href="https://scholar.google.com/citations?user=rQpIj6AAAAAJ&hl=en">Biostatistician</a></h1>
  
+ I am a data scientist with rich experiences spanning experimental design, plant breeding and genomic analysis, business analytics, product development, and machine learning. 
+ 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Python</b>
