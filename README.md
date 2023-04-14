@@ -17,8 +17,8 @@
 
 <h2>🎓 Certifications:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Crop Recommendation System with LightGBM](https://github.com/mustigui/Crop-Recommendation-System-with-LightGBM)
+- <b>Coursera</b>
+  - [Machine Learning Specialization](https://coursera.org/share/495e78ff665fd6fdcc4bc99d8174b4fb)
  
 <h2> 🤳 Connect with me:</h2>
  📫 gm.mustiga@gmail.com
