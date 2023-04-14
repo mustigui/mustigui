@@ -20,12 +20,14 @@
   - [Machine Learning Specialization](https://coursera.org/share/495e78ff665fd6fdcc4bc99d8174b4fb)
   - [Advanced Learning Algorithms](https://coursera.org/share/57eaa551a220af3e07d2ae57e54a9068)
   - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/fbb34c6f6cdf1712ce97fdc4005bb33a)
+  - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/ecfd3a5d874697d6530b2503581e9890)
   - [Deep Learning for Real State Prediction](https://coursera.org/share/0fe2d99b9e9341623cb1db5253dd7810)
   - [SQL for Data Science](https://coursera.org/share/d2b06b5bde3b0984ffd7c78d7c091044)
   - [Introduction to Data Science in Python](https://coursera.org/share/7f6ea6478053809dbd09abf2f13c3a30)
   - [Applied Plotting, Charting & Data Representation in Python](https://coursera.org/share/864f6ed03fad5ea830f8e50f49a812cd)
   - [Visual Analytics with Tableau](https://coursera.org/share/7c1049066b7f02f338389b8903fbcbe2)
   - [Data Analytics for Lean Six Sigma](https://coursera.org/share/493f5dda94b83f28033de3a4f7812d89)
+  - [Success](https://coursera.org/share/1c323756cc894c3b1a99eed1776a728c)
   
  
 <h2> 🤳 Connect with me:</h2>
