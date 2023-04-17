@@ -12,6 +12,7 @@ Moreover, as the main author of two scientific papers that have been published i
 
 - <b>Python</b>
   - [Crop Recommendation System with LightGBM](https://github.com/mustigui/Crop-Recommendation-System-with-LightGBM)
+  - [Real State Price Prediction Deep Learning](https://github.com/mustigui/Real-State-Price-Prediction-Deep-Learning)
 
 - <b>R</b>
   - [Cannabis Interactive Analysis with NLP](https://github.com/mustigui/Cannabis-Interactive-Analysis-with-NLP)
