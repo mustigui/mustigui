@@ -12,6 +12,7 @@ Moreover, as the main author of two scientific papers that have been published i
 
 - <b>Python</b>
   - [Crop Recommendation System with LightGBM](https://github.com/mustigui/Crop-Recommendation-System-with-LightGBM)
+  - [Cannabis Interactive Analysis with NLP](https://github.com/mustigui/Cannabis-Interactive-Analysis-with-NLP)
 
 <h2>📝 Published Papers:</h2>
 
